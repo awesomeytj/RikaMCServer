@@ -1,0 +1,45 @@
+TITLES:
+  NO-REGISTER:
+    TITLE: '&a你还没有注册，请注册！'
+    SUBTITLE: '&e按t在聊天框输入 /register 密码 确认密码'
+
+  NO-LOGIN:
+    TITLE: '&a请登录！'
+    SUBTITLE: '&e按t在聊天框输入 /login 密码'    
+
+  ON-REGISTER:
+    TITLE: '&aREGISTER COMPLETE'
+    SUBTITLE: '&e开黑啦频道号：YPOFnx'
+    TIME:
+      FADEIN: 5
+      STAY: 30
+      FADEOUT: 5
+      
+  ON-LOGIN:
+    TITLE: '&aLOGIN COMPLETE'
+    SUBTITLE: '&e开黑啦频道号：YPOFnx'
+    SUBTITLE: '&eTest second subtittle'
+    TIME:
+      FADEIN: 5
+      STAY: 30
+      FADEOUT: 5
+      
+ACTIONBAR:
+  Enable: true
+  NO_REGISTER:
+    MESSAGE: '&7&CTimeleft: &e<time>'
+
+  NO_LOGIN:
+    MESSAGE: '&7&CTimeleft: &e<time>'
+    
+  ON_REGISTER:
+    STAY: 30
+    MESSAGE: '&eREGISTER COMPLETE! WELCOME %player_name%'
+
+  ON_LOGIN:
+    STAY: 30
+    MESSAGE: '&aWELCOME BACK %player_name%'
+
+MESSAGE:
+  RELOAD: '&cThe config was reloaded.'
+  NO_AUTHORIZED: '&cYou are not authorized for this.'

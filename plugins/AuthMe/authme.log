@@ -1,0 +1,993 @@
+[06-27 13:58:18]: [INFO] Created column 'regdate' and set the current timestamp, 1656309498810, to all 0 rows
+[06-27 13:58:18]: [INFO] SQLite Setup finished
+[06-27 13:58:18]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 13:58:19]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 13:58:19]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 13:58:19]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 13:58:19]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 13:58:19]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 13:58:19]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 13:58:19]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 14:00:13]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-27 14:01:49]: [INFO] SQLite Setup finished
+[06-27 14:01:49]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 14:01:49]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 14:01:49]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 14:01:50]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 14:01:50]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 14:01:50]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 14:01:50]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 14:01:50]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 14:03:19]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-27 14:04:11]: [INFO] SQLite Setup finished
+[06-27 14:04:11]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 14:04:11]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 14:04:12]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 14:04:12]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 14:04:12]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 14:04:12]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 14:04:12]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 14:04:12]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 14:08:36]: [FINE] Lazarus registered 127.0.0.1
+[06-27 14:08:36]: [FINE] Lazarus logged in 127.0.0.1
+[06-27 14:09:08]: [FINE] Lazarus logged in 127.0.0.1
+[06-27 14:11:33]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-27 14:14:45]: [INFO] SQLite Setup finished
+[06-27 14:14:45]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 14:14:45]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 14:14:45]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 14:14:46]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 14:14:46]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 14:14:46]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 14:14:46]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 14:14:46]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 14:17:45]: [FINE] qyc027 registered 127.0.0.1
+[06-27 14:17:45]: [FINE] The user qyc027 has 2 accounts:
+[06-27 14:17:45]: [FINE] §7lazarus, §aqyc027§7.
+[06-27 14:17:45]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 14:20:06]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-27 14:24:58]: [INFO] SQLite Setup finished
+[06-27 14:24:58]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 14:24:58]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 14:24:58]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 14:24:58]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 14:24:58]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 14:24:58]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 14:24:58]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 14:24:58]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 14:27:14]: [FINE] Test registered 192.168.31.151
+[06-27 14:27:14]: [FINE] Test logged in 192.168.31.151
+[06-27 14:28:12]: [FINE] Test logged in 192.168.31.151
+[06-27 14:30:16]: [FINE] The user qyc027 has 2 accounts:
+[06-27 14:30:16]: [FINE] §7lazarus, §aqyc027§7.
+[06-27 14:30:16]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 14:45:41]: [FINE] The user qyc027 has 2 accounts:
+[06-27 14:45:41]: [FINE] §7lazarus, §aqyc027§7.
+[06-27 14:45:41]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 14:57:42]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-27 14:58:25]: [INFO] SQLite Setup finished
+[06-27 14:58:25]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 14:58:26]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 14:58:26]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 14:58:26]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 14:58:26]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 14:58:26]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 14:58:26]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 14:58:26]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 14:59:04]: [FINE] Test logged in 192.168.31.151
+[06-27 15:07:29]: [FINE] Test logged in 192.168.31.151
+[06-27 15:11:25]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-27 15:12:12]: [INFO] SQLite Setup finished
+[06-27 15:12:13]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 15:12:13]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 15:12:13]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 15:12:13]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 15:12:13]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 15:12:13]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 15:12:13]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 15:12:13]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:82)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:54)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 15:12:46]: [FINE] Test logged in 192.168.31.151
+[06-27 15:16:38]: [FINE] The user Lazarus has 2 accounts:
+[06-27 15:16:38]: [FINE] §7§aLazarus§7, test.
+[06-27 15:16:38]: [FINE] Lazarus logged in 192.168.31.151
+[06-27 15:46:00]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 16:05:44]: [FINE] The user Lazarus has 2 accounts:
+[06-27 16:05:44]: [FINE] §7§aLazarus§7, test.
+[06-27 16:05:44]: [FINE] Lazarus logged in 192.168.31.151
+[06-27 16:10:04]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 16:16:08]: [FINE] The user Lazarus has 2 accounts:
+[06-27 16:16:08]: [FINE] §7§aLazarus§7, test.
+[06-27 16:16:08]: [FINE] Lazarus logged in 192.168.31.151
+[06-27 16:21:46]: [FINE] The user Lazarus has 2 accounts:
+[06-27 16:21:46]: [FINE] §7§aLazarus§7, test.
+[06-27 16:21:46]: [FINE] Lazarus logged in 192.168.31.151
+[06-27 16:45:42]: [FINE] The user Lazarus has 2 accounts:
+[06-27 16:45:42]: [FINE] §7§aLazarus§7, test.
+[06-27 16:45:42]: [FINE] Lazarus logged in 192.168.31.151
+[06-27 17:01:24]: [FINE] Spirit_rain registered 127.0.0.1
+[06-27 17:01:24]: [FINE] The user Spirit_rain has 2 accounts:
+[06-27 17:01:24]: [FINE] §7§aqyc027§7, §aSpirit_rain§7.
+[06-27 17:01:24]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-27 17:02:01]: [FINE] The user qyc027 has 2 accounts:
+[06-27 17:02:01]: [FINE] §7§aqyc027§7, §aSpirit_rain§7.
+[06-27 17:02:01]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 17:04:31]: [FINE] The user Spirit_rain has 2 accounts:
+[06-27 17:04:31]: [FINE] §7§aqyc027§7, §aSpirit_rain§7.
+[06-27 17:04:31]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-27 17:08:44]: [FINE] The user Lazarus has 2 accounts:
+[06-27 17:08:44]: [FINE] §7§aLazarus§7, test.
+[06-27 17:08:44]: [FINE] Lazarus logged in 192.168.31.151
+[06-27 17:16:40]: [FINE] XingHe611 registered 127.0.0.1
+[06-27 17:16:40]: [FINE] The user XingHe611 has 3 accounts:
+[06-27 17:16:40]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, §aXingHe611§7.
+[06-27 17:16:40]: [FINE] XingHe611 logged in 127.0.0.1
+[06-27 17:23:10]: [FINE] The user Lazarus has 2 accounts:
+[06-27 17:23:10]: [FINE] §7§aLazarus§7, test.
+[06-27 17:23:10]: [FINE] Lazarus logged in 192.168.31.151
+[06-27 17:48:15]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-27 17:57:15]: [INFO] SQLite Setup finished
+[06-27 17:57:15]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 17:57:15]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 17:57:16]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 17:57:16]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 17:57:16]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 17:57:16]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 17:57:16]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 17:57:16]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 18:00:13]: [FINE] The user Lazarus has 2 accounts:
+[06-27 18:00:13]: [FINE] §7§aLazarus§7, test.
+[06-27 18:00:13]: [FINE] Lazarus logged in 192.168.31.151
+[06-27 18:01:14]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-27 18:03:05]: [INFO] SQLite Setup finished
+[06-27 18:03:05]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-27 18:03:05]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-27 18:03:06]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-27 18:03:06]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-27 18:03:06]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-27 18:03:06]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-27 18:03:06]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-27 18:03:06]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-27 18:14:21]: [FINE] DZPisces registered 127.0.0.1
+[06-27 18:14:21]: [FINE] The user DZPisces has 4 accounts:
+[06-27 18:14:21]: [FINE] §7qyc027, spirit_rain, xinghe611, §aDZPisces§7.
+[06-27 18:14:21]: [FINE] DZPisces logged in 127.0.0.1
+[06-27 18:18:27]: [FINE] The user qyc027 has 4 accounts:
+[06-27 18:18:27]: [FINE] §7§aqyc027§7, spirit_rain, xinghe611, §aDZPisces§7.
+[06-27 18:18:27]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 18:24:42]: [FINE] The user XingHe611 has 4 accounts:
+[06-27 18:24:42]: [FINE] §7qyc027, spirit_rain, §aXingHe611§7, §aDZPisces§7.
+[06-27 18:24:42]: [FINE] XingHe611 logged in 127.0.0.1
+[06-27 18:32:53]: [FINE] The user Spirit_rain has 4 accounts:
+[06-27 18:32:53]: [FINE] §7qyc027, §aSpirit_rain§7, §aXingHe611§7, §aDZPisces§7.
+[06-27 18:32:53]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-27 18:39:41]: [FINE] The user qyc027 has 4 accounts:
+[06-27 18:39:41]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, §aXingHe611§7, §aDZPisces§7.
+[06-27 18:39:41]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 19:28:07]: [FINE] The user qyc027 has 4 accounts:
+[06-27 19:28:07]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, §aXingHe611§7, dzpisces.
+[06-27 19:28:07]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 19:53:13]: [FINE] The user Spirit_rain has 4 accounts:
+[06-27 19:53:13]: [FINE] §7qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces.
+[06-27 19:53:13]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-27 20:02:40]: [FINE] The user qyc027 has 4 accounts:
+[06-27 20:02:40]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, §aXingHe611§7, dzpisces.
+[06-27 20:02:40]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 21:28:05]: [FINE] The user qyc027 has 4 accounts:
+[06-27 21:28:05]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, §aXingHe611§7, dzpisces.
+[06-27 21:28:05]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 21:51:15]: [FINE] The user qyc027 has 4 accounts:
+[06-27 21:51:15]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, §aXingHe611§7, dzpisces.
+[06-27 21:51:15]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 22:32:00]: [FINE] Lark registered 127.0.0.1
+[06-27 22:32:00]: [FINE] The user Lark has 5 accounts:
+[06-27 22:32:00]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 22:32:00]: [FINE] Lark logged in 127.0.0.1
+[06-27 22:37:13]: [FINE] The user Lark has 5 accounts:
+[06-27 22:37:13]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 22:37:13]: [FINE] Lark logged in 127.0.0.1
+[06-27 22:47:39]: [FINE] The user Lark has 5 accounts:
+[06-27 22:47:39]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 22:47:39]: [FINE] Lark logged in 127.0.0.1
+[06-27 22:53:09]: [FINE] The user Lark has 5 accounts:
+[06-27 22:53:09]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 22:53:09]: [FINE] Lark logged in 127.0.0.1
+[06-27 23:13:06]: [FINE] The user Lark has 5 accounts:
+[06-27 23:13:06]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 23:13:06]: [FINE] Lark logged in 127.0.0.1
+[06-27 23:13:47]: [FINE] The user Lark has 5 accounts:
+[06-27 23:13:47]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 23:13:47]: [FINE] Lark logged in 127.0.0.1
+[06-27 23:15:48]: [FINE] The user Lark has 5 accounts:
+[06-27 23:15:48]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 23:15:48]: [FINE] Lark logged in 127.0.0.1
+[06-27 23:26:51]: [FINE] The user qyc027 has 5 accounts:
+[06-27 23:26:51]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark.
+[06-27 23:26:51]: [FINE] qyc027 logged in 127.0.0.1
+[06-27 23:28:07]: [FINE] The user Lark has 5 accounts:
+[06-27 23:28:07]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 23:28:07]: [FINE] Lark logged in 127.0.0.1
+[06-27 23:31:34]: [FINE] The user Lark has 5 accounts:
+[06-27 23:31:34]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7.
+[06-27 23:31:34]: [FINE] Lark logged in 127.0.0.1
+[06-28 00:14:55]: [FINE] QWERTY registered 127.0.0.1
+[06-28 00:14:55]: [FINE] The user QWERTY has 6 accounts:
+[06-28 00:14:55]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, §aQWERTY§7.
+[06-28 00:14:55]: [FINE] QWERTY logged in 127.0.0.1
+[06-28 00:25:08]: [FINE] The user qyc027 has 6 accounts:
+[06-28 00:25:08]: [FINE] §7§aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, §aQWERTY§7.
+[06-28 00:25:08]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 00:26:47]: [FINE] The user Lazarus has 7 accounts:
+[06-28 00:26:47]: [FINE] §7§aLazarus§7, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty.
+[06-28 00:26:47]: [FINE] Lazarus logged in 127.0.0.1
+[06-28 00:42:25]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-28 00:43:31]: [INFO] SQLite Setup finished
+[06-28 00:43:31]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-28 00:43:31]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-28 00:43:32]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-28 00:43:32]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-28 00:43:32]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-28 00:43:32]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-28 00:43:32]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-28 00:43:32]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-28 00:44:17]: [FINE] The user Lazarus has 7 accounts:
+[06-28 00:44:17]: [FINE] §7§aLazarus§7, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty.
+[06-28 00:44:17]: [FINE] Lazarus logged in 127.0.0.1
+[06-28 00:44:24]: [FINE] The user qyc027 has 7 accounts:
+[06-28 00:44:24]: [FINE] §7§aLazarus§7, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty.
+[06-28 00:44:24]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 00:46:28]: [FINE] The user Spirit_rain has 7 accounts:
+[06-28 00:46:28]: [FINE] §7§aLazarus§7, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty.
+[06-28 00:46:28]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-28 01:03:49]: [FINE] The user qyc027 has 7 accounts:
+[06-28 01:03:49]: [FINE] §7§aLazarus§7, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty.
+[06-28 01:03:49]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 01:23:08]: [FINE] The user qyc027 has 7 accounts:
+[06-28 01:23:08]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty.
+[06-28 01:23:08]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 01:46:03]: [FINE] The user qyc027 has 7 accounts:
+[06-28 01:46:03]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty.
+[06-28 01:46:03]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 02:35:25]: [FINE] The user qyc027 has 7 accounts:
+[06-28 02:35:25]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty.
+[06-28 02:35:25]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 09:12:25]: [FINE] Rikalittlepuppy registered 127.0.0.1
+[06-28 09:12:25]: [FINE] The user Rikalittlepuppy has 8 accounts:
+[06-28 09:12:25]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7.
+[06-28 09:12:25]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-28 09:47:44]: [FINE] The user qyc027 has 8 accounts:
+[06-28 09:47:44]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7.
+[06-28 09:47:44]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 10:20:49]: [FINE] The user Spirit_rain has 8 accounts:
+[06-28 10:20:49]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7.
+[06-28 10:20:49]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-28 10:31:29]: [FINE] The user qyc027 has 8 accounts:
+[06-28 10:31:29]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7.
+[06-28 10:31:29]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 10:32:39]: [FINE] agblto registered 127.0.0.1
+[06-28 10:32:39]: [FINE] The user agblto has 9 accounts:
+[06-28 10:32:39]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, §aagblto§7.
+[06-28 10:32:39]: [FINE] agblto logged in 127.0.0.1
+[06-28 11:29:17]: [FINE] The user qyc027 has 9 accounts:
+[06-28 11:29:17]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, §aagblto§7.
+[06-28 11:29:17]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 11:31:53]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[06-28 11:35:47]: [INFO] SQLite Setup finished
+[06-28 11:35:47]: [INFO] No supported permissions system found! Permissions are disabled!
+[06-28 11:35:47]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[06-28 11:35:48]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[06-28 11:35:48]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[06-28 11:35:48]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[06-28 11:35:48]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[06-28 11:35:48]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[06-28 11:35:48]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[06-28 11:36:21]: [FINE] The user qyc027 has 9 accounts:
+[06-28 11:36:21]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto.
+[06-28 11:36:21]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 11:36:28]: [FINE] The user Rikalittlepuppy has 9 accounts:
+[06-28 11:36:28]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto.
+[06-28 11:36:28]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-28 11:38:10]: [FINE] The user agblto has 9 accounts:
+[06-28 11:38:10]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, §aagblto§7.
+[06-28 11:38:10]: [FINE] agblto logged in 127.0.0.1
+[06-28 12:33:39]: [FINE] The user Spirit_rain has 9 accounts:
+[06-28 12:33:39]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, §aagblto§7.
+[06-28 12:33:39]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-28 12:41:00]: [FINE] agblto used the wrong password
+[06-28 12:41:15]: [FINE] The user agblto has 9 accounts:
+[06-28 12:41:15]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, §aagblto§7.
+[06-28 12:41:15]: [FINE] agblto logged in 127.0.0.1
+[06-28 12:47:52]: [FINE] The user qyc027 has 9 accounts:
+[06-28 12:47:52]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto.
+[06-28 12:47:52]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 14:23:55]: [FINE] The user Lark has 9 accounts:
+[06-28 14:23:55]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto.
+[06-28 14:23:55]: [FINE] Lark logged in 127.0.0.1
+[06-28 14:25:34]: [FINE] The user Lazarus has 9 accounts:
+[06-28 14:25:34]: [FINE] §7§aLazarus§7, qyc027, spirit_rain, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto.
+[06-28 14:25:34]: [FINE] Lazarus logged in 127.0.0.1
+[06-28 14:35:43]: [FINE] The user Rikalittlepuppy has 9 accounts:
+[06-28 14:35:43]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, §aLark§7, qwerty, §aRikalittlepuppy§7, agblto.
+[06-28 14:35:43]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-28 15:45:30]: [FINE] The user Lazarus has 9 accounts:
+[06-28 15:45:30]: [FINE] §7§aLazarus§7, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto.
+[06-28 15:45:30]: [FINE] Lazarus logged in 127.0.0.1
+[06-28 16:32:47]: [FINE] The user Spirit_rain has 9 accounts:
+[06-28 16:32:47]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto.
+[06-28 16:32:47]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-28 16:53:23]: [FINE] The user XingHe611 has 9 accounts:
+[06-28 16:53:23]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto.
+[06-28 16:53:23]: [FINE] XingHe611 logged in 127.0.0.1
+[06-28 19:50:13]: [FINE] The user XingHe611 has 9 accounts:
+[06-28 19:50:13]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto.
+[06-28 19:50:13]: [FINE] XingHe611 logged in 127.0.0.1
+[06-28 20:46:20]: [FINE] icedragon registered 127.0.0.1
+[06-28 20:46:20]: [FINE] The user icedragon has 10 accounts:
+[06-28 20:46:20]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[06-28 20:46:20]: [FINE] icedragon logged in 127.0.0.1
+[06-28 21:49:15]: [FINE] The user Lazarus has 10 accounts:
+[06-28 21:49:15]: [FINE] §7§aLazarus§7, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[06-28 21:49:15]: [FINE] Lazarus logged in 127.0.0.1
+[06-28 22:53:28]: [FINE] The user qyc027 has 10 accounts:
+[06-28 22:53:28]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[06-28 22:53:28]: [FINE] qyc027 logged in 127.0.0.1
+[06-28 23:12:49]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-28 23:12:49]: [FINE] §7lazarus, qyc027, spirit_rain, §aXingHe611§7, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-28 23:12:49]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-28 23:27:35]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-28 23:27:35]: [FINE] §7lazarus, qyc027, spirit_rain, §aXingHe611§7, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-28 23:27:35]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-29 01:37:49]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-29 01:37:49]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-29 01:37:49]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-29 08:53:05]: [FINE] The user Spirit_rain has 10 accounts:
+[06-29 08:53:05]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-29 08:53:05]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-29 09:29:31]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-29 09:29:31]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-29 09:29:31]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-29 12:48:45]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-29 12:48:45]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-29 12:48:45]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-29 15:36:41]: [FINE] The user qyc027 has 10 accounts:
+[06-29 15:36:41]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-29 15:36:41]: [FINE] qyc027 logged in 127.0.0.1
+[06-29 15:56:01]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-29 15:56:01]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-29 15:56:01]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-29 17:08:54]: [FINE] The user XingHe611 has 10 accounts:
+[06-29 17:08:54]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-29 17:08:54]: [FINE] XingHe611 logged in 127.0.0.1
+[06-29 18:42:47]: [FINE] The user agblto has 10 accounts:
+[06-29 18:42:47]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, §aagblto§7, icedragon.
+[06-29 18:42:47]: [FINE] agblto logged in 127.0.0.1
+[06-29 19:43:17]: [FINE] The user Spirit_rain has 10 accounts:
+[06-29 19:43:17]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-29 19:43:17]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-29 20:05:31]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-29 20:05:31]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-29 20:05:31]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-29 20:31:14]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-29 20:31:14]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-29 20:31:14]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-29 21:11:59]: [FINE] The user XingHe611 has 10 accounts:
+[06-29 21:11:59]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-29 21:11:59]: [FINE] XingHe611 logged in 127.0.0.1
+[06-29 21:56:44]: [FINE] The user DZPisces has 10 accounts:
+[06-29 21:56:44]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, §aDZPisces§7, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-29 21:56:44]: [FINE] DZPisces logged in 127.0.0.1
+[06-29 22:04:29]: [FINE] The user XingHe611 has 10 accounts:
+[06-29 22:04:29]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-29 22:04:29]: [FINE] XingHe611 logged in 127.0.0.1
+[06-29 22:49:32]: [FINE] The user icedragon has 10 accounts:
+[06-29 22:49:32]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[06-29 22:49:32]: [FINE] icedragon logged in 127.0.0.1
+[06-29 23:56:16]: [FINE] The user Spirit_rain has 10 accounts:
+[06-29 23:56:16]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[06-29 23:56:16]: [FINE] Spirit_rain logged in 127.0.0.1
+[06-30 00:34:57]: [FINE] The user qyc027 has 10 accounts:
+[06-30 00:34:57]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[06-30 00:34:57]: [FINE] qyc027 logged in 127.0.0.1
+[06-30 07:58:52]: [FINE] Rikalittlepuppy used the wrong password
+[06-30 07:59:08]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-30 07:59:08]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-30 07:59:08]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-30 09:40:22]: [FINE] The user XingHe611 has 10 accounts:
+[06-30 09:40:22]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 09:40:22]: [FINE] XingHe611 logged in 127.0.0.1
+[06-30 09:51:02]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-30 09:51:02]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-30 09:51:02]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-30 10:52:24]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-30 10:52:24]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-30 10:52:24]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-30 14:50:02]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-30 14:50:02]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-30 14:50:02]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-30 15:40:03]: [FINE] Rikalittlepuppy used the wrong password
+[06-30 15:40:20]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[06-30 15:40:20]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[06-30 15:40:20]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[06-30 15:58:26]: [FINE] The user Lazarus has 10 accounts:
+[06-30 15:58:26]: [FINE] §7§aLazarus§7, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 15:58:26]: [FINE] Lazarus logged in 127.0.0.1
+[06-30 16:50:59]: [FINE] The user Lazarus has 10 accounts:
+[06-30 16:50:59]: [FINE] §7§aLazarus§7, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 16:50:59]: [FINE] Lazarus logged in 127.0.0.1
+[06-30 19:56:14]: [FINE] The user qyc027 has 10 accounts:
+[06-30 19:56:14]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 19:56:14]: [FINE] qyc027 logged in 127.0.0.1
+[06-30 20:54:25]: [FINE] The user qyc027 has 10 accounts:
+[06-30 20:54:25]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 20:54:25]: [FINE] qyc027 logged in 127.0.0.1
+[06-30 21:28:01]: [FINE] The user qyc027 has 10 accounts:
+[06-30 21:28:01]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 21:28:01]: [FINE] qyc027 logged in 127.0.0.1
+[06-30 21:28:47]: [FINE] The user qyc027 has 10 accounts:
+[06-30 21:28:47]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 21:28:47]: [FINE] qyc027 logged in 127.0.0.1
+[06-30 21:29:38]: [FINE] The user qyc027 has 10 accounts:
+[06-30 21:29:38]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 21:29:38]: [FINE] qyc027 logged in 127.0.0.1
+[06-30 22:20:48]: [FINE] The user qyc027 has 10 accounts:
+[06-30 22:20:48]: [FINE] §7lazarus, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 22:20:48]: [FINE] qyc027 logged in 127.0.0.1
+[06-30 22:23:53]: [FINE] The user Lazarus has 10 accounts:
+[06-30 22:23:53]: [FINE] §7§aLazarus§7, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 22:23:53]: [FINE] Lazarus logged in 127.0.0.1
+[06-30 22:46:35]: [FINE] The user Lazarus has 10 accounts:
+[06-30 22:46:35]: [FINE] §7§aLazarus§7, §aqyc027§7, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 22:46:35]: [FINE] Lazarus logged in 127.0.0.1
+[06-30 23:31:15]: [FINE] The user XingHe611 has 10 accounts:
+[06-30 23:31:15]: [FINE] §7§aLazarus§7, §aqyc027§7, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[06-30 23:31:15]: [FINE] XingHe611 logged in 127.0.0.1
+[07-01 08:16:35]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-01 08:16:35]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[07-01 08:16:35]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-01 10:02:51]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-01 10:02:51]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[07-01 10:02:51]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-01 10:19:32]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-01 10:19:32]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[07-01 10:19:32]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-01 11:43:35]: [FINE] The user Spirit_rain has 10 accounts:
+[07-01 11:43:35]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon.
+[07-01 11:43:35]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-01 13:16:14]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-01 13:16:14]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[07-01 13:16:14]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-01 14:22:26]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-01 14:22:26]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[07-01 14:22:26]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-01 14:34:18]: [FINE] The user qyc027 has 10 accounts:
+[07-01 14:34:18]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[07-01 14:34:18]: [FINE] qyc027 logged in 127.0.0.1
+[07-01 14:48:02]: [FINE] The user Spirit_rain has 10 accounts:
+[07-01 14:48:02]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon.
+[07-01 14:48:02]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-01 16:27:57]: [FINE] The user icedragon has 10 accounts:
+[07-01 16:27:57]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[07-01 16:27:57]: [FINE] icedragon logged in 127.0.0.1
+[07-01 17:39:06]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-01 17:39:06]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, §aicedragon§7.
+[07-01 17:39:06]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-01 19:14:58]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[07-01 19:15:34]: [INFO] SQLite Setup finished
+[07-01 19:15:35]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-01 19:15:35]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-01 19:15:35]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[07-01 19:15:35]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-01 19:15:35]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-01 19:15:35]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-01 19:15:35]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[07-01 19:15:35]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[07-01 20:30:49]: [FINE] The user icedragon has 10 accounts:
+[07-01 20:30:49]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[07-01 20:30:49]: [FINE] icedragon logged in 127.0.0.1
+[07-01 20:54:22]: [FINE] The user Spirit_rain has 10 accounts:
+[07-01 20:54:22]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7.
+[07-01 20:54:22]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-01 21:46:41]: [FINE] RKbian registered 127.0.0.1
+[07-01 21:46:41]: [FINE] The user RKbian has 11 accounts:
+[07-01 21:46:41]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, §aRKbian§7.
+[07-01 21:46:41]: [FINE] RKbian logged in 127.0.0.1
+[07-01 21:48:33]: [FINE] RKbian used the wrong password
+[07-01 21:48:51]: [FINE] The user RKbian has 11 accounts:
+[07-01 21:48:51]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, §aRKbian§7.
+[07-01 21:48:51]: [FINE] RKbian logged in 127.0.0.1
+[07-01 21:57:40]: [FINE] The user icedragon has 11 accounts:
+[07-01 21:57:40]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7, §aRKbian§7.
+[07-01 21:57:40]: [FINE] icedragon logged in 127.0.0.1
+[07-02 00:37:23]: [FINE] RKbian used the wrong password
+[07-02 00:37:39]: [FINE] RKbian used the wrong password
+[07-02 00:37:53]: [FINE] RKbian used the wrong password
+[07-02 00:38:12]: [FINE] The user RKbian has 11 accounts:
+[07-02 00:38:12]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, §aRKbian§7.
+[07-02 00:38:12]: [FINE] RKbian logged in 127.0.0.1
+[07-02 13:32:18]: [FINE] The user Rikalittlepuppy has 11 accounts:
+[07-02 13:32:18]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-02 13:32:18]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-02 14:36:31]: [FINE] The user agblto has 11 accounts:
+[07-02 14:36:31]: [FINE] §7lazarus, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, §aagblto§7, icedragon, rkbian.
+[07-02 14:36:31]: [FINE] agblto logged in 127.0.0.1
+[07-03 16:40:20]: [FINE] The user qyc027 has 11 accounts:
+[07-03 16:40:20]: [FINE] §7lazarus, §aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-03 16:40:20]: [FINE] qyc027 logged in 127.0.0.1
+[07-03 17:46:24]: [FINE] The user Spirit_rain has 11 accounts:
+[07-03 17:46:24]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-03 17:46:24]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-03 19:05:21]: [FINE] The user Rikalittlepuppy has 11 accounts:
+[07-03 19:05:21]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-03 19:05:21]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-03 19:42:49]: [FINE] The user Rikalittlepuppy has 11 accounts:
+[07-03 19:42:49]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-03 19:42:49]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-03 20:16:49]: [FINE] The user Lazarus has 2 accounts:
+[07-03 20:16:49]: [FINE] §7§aLazarus§7, test.
+[07-03 20:16:49]: [FINE] Lazarus logged in 192.168.31.151
+[07-04 08:12:29]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-04 08:12:29]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-04 08:12:29]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-04 17:32:07]: [FINE] The user Spirit_rain has 10 accounts:
+[07-04 17:32:07]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-04 17:32:07]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-04 19:40:29]: [FINE] The user Lazarus has 2 accounts:
+[07-04 19:40:29]: [FINE] §7§aLazarus§7, test.
+[07-04 19:40:29]: [FINE] Lazarus logged in 192.168.31.151
+[07-04 21:16:23]: [FINE] The user Spirit_rain has 10 accounts:
+[07-04 21:16:23]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-04 21:16:23]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-05 06:50:23]: [FINE] The user Spirit_rain has 10 accounts:
+[07-05 06:50:23]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-05 06:50:23]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-05 14:37:48]: [FINE] The user Spirit_rain has 10 accounts:
+[07-05 14:37:48]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-05 14:37:48]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-05 14:53:33]: [FINE] The user XingHe611 has 10 accounts:
+[07-05 14:53:33]: [FINE] §7qyc027, §aSpirit_rain§7, §aXingHe611§7, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-05 14:53:33]: [FINE] XingHe611 logged in 127.0.0.1
+[07-05 16:38:00]: [FINE] The user Lazarus has 11 accounts:
+[07-05 16:38:00]: [FINE] §7§aLazarus§7, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-05 16:38:00]: [FINE] Lazarus logged in 127.0.0.1
+[07-05 16:47:14]: [FINE] The user Spirit_rain has 11 accounts:
+[07-05 16:47:14]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-05 16:47:14]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-05 17:58:05]: [FINE] The user Spirit_rain has 11 accounts:
+[07-05 17:58:05]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-05 17:58:05]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-05 19:06:55]: [FINE] The user Lazarus has 2 accounts:
+[07-05 19:06:55]: [FINE] §7§aLazarus§7, test.
+[07-05 19:06:55]: [FINE] Lazarus logged in 192.168.31.151
+[07-05 23:12:48]: [FINE] The user Spirit_rain has 10 accounts:
+[07-05 23:12:48]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-05 23:12:48]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-06 16:52:36]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-06 16:52:36]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-06 16:52:36]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-06 16:58:23]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-06 16:58:23]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-06 16:58:23]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-06 18:28:44]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-06 18:28:44]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-06 18:28:44]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-07 07:39:41]: [FINE] The user Spirit_rain has 10 accounts:
+[07-07 07:39:41]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-07 07:39:41]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-07 08:21:21]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-07 08:21:21]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-07 08:21:21]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-07 08:36:22]: [FINE] The user Spirit_rain has 10 accounts:
+[07-07 08:36:22]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-07 08:36:22]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-07 09:14:38]: [FINE] The user Spirit_rain has 10 accounts:
+[07-07 09:14:38]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-07 09:14:38]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-07 15:35:43]: [FINE] The user Lazarus has 11 accounts:
+[07-07 15:35:43]: [FINE] §7§aLazarus§7, qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-07 15:35:43]: [FINE] Lazarus logged in 127.0.0.1
+[07-07 17:16:53]: [FINE] The user Spirit_rain has 11 accounts:
+[07-07 17:16:53]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-07 17:16:53]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-07 18:51:59]: [FINE] The user Spirit_rain has 11 accounts:
+[07-07 18:51:59]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-07 18:51:59]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-08 09:37:07]: [FINE] The user Spirit_rain has 11 accounts:
+[07-08 09:37:07]: [FINE] §7lazarus, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 09:37:07]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-08 14:47:48]: [FINE] The user Lazarus has 11 accounts:
+[07-08 14:47:48]: [FINE] §7§aLazarus§7, qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 14:47:48]: [FINE] Lazarus logged in 127.0.0.1
+[07-08 16:08:12]: [FINE] Lazarus logged in 192.168.31.152
+[07-08 16:28:25]: [FINE] The user Lark has 10 accounts:
+[07-08 16:28:25]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 16:28:25]: [FINE] Lark logged in 127.0.0.1
+[07-08 16:30:23]: [FINE] The user Lark has 10 accounts:
+[07-08 16:30:23]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 16:30:23]: [FINE] Lark logged in 127.0.0.1
+[07-08 16:45:12]: [FINE] The user Lark has 10 accounts:
+[07-08 16:45:12]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 16:45:12]: [FINE] Lark logged in 127.0.0.1
+[07-08 16:51:04]: [FINE] The user Lark has 10 accounts:
+[07-08 16:51:04]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 16:51:04]: [FINE] Lark logged in 127.0.0.1
+[07-08 17:06:06]: [FINE] The user Lark has 10 accounts:
+[07-08 17:06:06]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 17:06:06]: [FINE] Lark logged in 127.0.0.1
+[07-08 17:33:14]: [FINE] The user Lark has 10 accounts:
+[07-08 17:33:14]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 17:33:14]: [FINE] Lark logged in 127.0.0.1
+[07-08 17:45:03]: [FINE] The user Lark has 10 accounts:
+[07-08 17:45:03]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 17:45:03]: [FINE] Lark logged in 127.0.0.1
+[07-08 17:48:10]: [FINE] The user Lark has 10 accounts:
+[07-08 17:48:10]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, §aLark§7, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 17:48:10]: [FINE] Lark logged in 127.0.0.1
+[07-08 17:55:58]: [FINE] The user Spirit_rain has 10 accounts:
+[07-08 17:55:58]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 17:55:58]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-08 17:59:26]: [FINE] The user Spirit_rain has 10 accounts:
+[07-08 17:59:26]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 17:59:26]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-08 18:00:03]: [FINE] Lazarus logged in 192.168.31.152
+[07-08 22:14:51]: [FINE] Lazarus logged in 192.168.31.152
+[07-08 22:45:51]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-08 22:45:51]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-08 22:45:51]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-08 22:54:00]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-08 22:54:00]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-08 22:54:00]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-08 22:58:42]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-08 22:58:42]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-08 22:58:42]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-08 23:36:49]: [FINE] The user Spirit_rain has 10 accounts:
+[07-08 23:36:49]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-08 23:36:49]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-09 08:17:14]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-09 08:17:14]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-09 08:17:14]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-09 08:29:15]: [FINE] The user Spirit_rain has 10 accounts:
+[07-09 08:29:15]: [FINE] §7qyc027, §aSpirit_rain§7, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-09 08:29:15]: [FINE] Spirit_rain logged in 127.0.0.1
+[07-09 16:45:05]: [FINE] Lazarus logged in 192.168.31.152
+[07-09 17:49:26]: [FINE] Lazarus logged in 192.168.31.152
+[07-09 19:16:19]: [FINE] The user qyc027 has 10 accounts:
+[07-09 19:16:19]: [FINE] §7§aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-09 19:16:19]: [FINE] qyc027 logged in 127.0.0.1
+[07-10 14:29:42]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-10 14:29:42]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-10 14:29:42]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-12 22:47:13]: [FINE] The user icedragon has 10 accounts:
+[07-12 22:47:13]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, §aicedragon§7, rkbian.
+[07-12 22:47:13]: [FINE] icedragon logged in 127.0.0.1
+[07-13 19:31:07]: [INFO] SQLite Setup finished
+[07-13 19:31:07]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-13 19:31:07]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-13 19:31:07]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[07-13 19:31:08]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-13 19:31:08]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-13 19:31:08]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-13 19:31:08]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[07-13 19:31:08]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[07-13 19:32:09]: [FINE] Lazarus logged in 192.168.31.152
+[07-15 19:51:19]: [FINE] The user agblto has 10 accounts:
+[07-15 19:51:19]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, §aagblto§7, icedragon, rkbian.
+[07-15 19:51:19]: [FINE] agblto logged in 127.0.0.1
+[07-16 13:32:24]: [FINE] The user Rikalittlepuppy has 10 accounts:
+[07-16 13:32:24]: [FINE] §7qyc027, spirit_rain, xinghe611, dzpisces, lark, qwerty, §aRikalittlepuppy§7, agblto, icedragon, rkbian.
+[07-16 13:32:24]: [FINE] Rikalittlepuppy logged in 127.0.0.1
+[07-17 19:26:01]: [FINE] The user qyc027 has 10 accounts:
+[07-17 19:26:01]: [FINE] §7§aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-17 19:26:01]: [FINE] qyc027 logged in 127.0.0.1
+[07-18 14:01:14]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[07-18 14:14:55]: [INFO] SQLite Setup finished
+[07-18 14:14:55]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-18 14:14:55]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-18 14:14:56]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[07-18 14:14:56]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-18 14:14:56]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-18 14:14:56]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-18 14:14:56]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[07-18 14:14:56]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[07-18 14:15:04]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[07-18 14:17:46]: [INFO] SQLite Setup finished
+[07-18 14:17:46]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-18 14:17:46]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-18 14:17:47]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[07-18 14:17:47]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-18 14:17:47]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-18 14:17:47]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-18 14:17:47]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[07-18 14:17:47]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[07-19 19:05:51]: [INFO] SQLite Setup finished
+[07-19 19:05:51]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-19 19:05:51]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-19 19:05:52]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[07-19 19:05:52]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-19 19:05:52]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-19 19:05:52]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-19 19:05:52]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[07-19 19:05:52]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[07-19 19:28:31]: [INFO] AuthMe 5.6.0-SNAPSHOT-b2534 disabled!
+[07-19 19:30:36]: [INFO] SQLite Setup finished
+[07-19 19:30:36]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-19 19:30:36]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-19 19:30:36]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[07-19 19:30:37]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-19 19:30:37]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-19 19:30:37]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-19 19:30:37]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[07-19 19:30:37]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[07-19 19:36:02]: [INFO] SQLite Setup finished
+[07-19 19:36:02]: [INFO] No supported permissions system found! Permissions are disabled!
+[07-19 19:36:02]: [WARN] WARNING! The protectInventory feature requires ProtocolLib! Disabling it...
+[07-19 19:36:02]: [INFO] AuthMe 5.6.0-SNAPSHOT build n.2534 successfully enabled!
+[07-19 19:36:03]: [INFO] Downloading GEO IP database, because the old database is older than 30 days or doesn't exist
+[07-19 19:36:03]: [WARN] No MaxMind credentials found in the configuration file! GeoIp protections will be disabled.
+[07-19 19:36:03]: [INFO] There is no newer GEO IP database uploaded to MaxMind. Using the old one for now.
+[07-19 19:36:03]: [WARN] Could not download GeoLiteAPI database [FileNotFoundException]: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+[07-19 19:36:03]: java.io.FileNotFoundException: plugins\AuthMe\GeoLite2-Country.mmdb (系统找不到指定的文件。)
+	at java.base/java.io.RandomAccessFile.open0(Native Method)
+	at java.base/java.io.RandomAccessFile.open(RandomAccessFile.java:344)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:259)
+	at java.base/java.io.RandomAccessFile.<init>(RandomAccessFile.java:213)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.BufferHolder.<init>(BufferHolder.java:20)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.libs.com.maxmind.db.Reader.<init>(Reader.java:121)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.startReading(GeoIpService.java:173)
+	at AuthMe-5.6.0-SNAPSHOT.jar//fr.xephi.authme.service.GeoIpService.updateDatabase(GeoIpService.java:144)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftTask.run(CraftTask.java:101)
+	at org.bukkit.craftbukkit.v1_19_R1.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57)
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+[07-20 12:58:59]: [FINE] The user qyc027 has 10 accounts:
+[07-20 12:58:59]: [FINE] §7§aqyc027§7, spirit_rain, xinghe611, dzpisces, lark, qwerty, rikalittlepuppy, agblto, icedragon, rkbian.
+[07-20 12:58:59]: [FINE] qyc027 logged in 127.0.0.1
